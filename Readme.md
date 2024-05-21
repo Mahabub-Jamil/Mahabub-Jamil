@@ -20,5 +20,5 @@
 - HSC (Daffodil International College, Chandpur)
 - Bachelor of Science in Computer Science & Engineering (Bangladesh University of Business & Technology, Dhaka)
 
-[![fIND ME ON fACEBOOK](fbicon.png)]([https://www.facebook.com/Trifat71/])
+[![fIND ME ON fACEBOOK](fbicon.png)](https://www.facebook.com/Trifat71/)
 
