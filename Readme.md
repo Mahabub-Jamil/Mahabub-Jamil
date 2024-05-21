@@ -1,7 +1,9 @@
-# Hello! I,m Mahabub Jamil.
 ![Mahabub Jamil](me.jpg)
+# Hello! I,m Mahabub Jamil.
+
 ### **Mobile application developer**
 #### Bachelor of Science in Computer Science and Engineering
+
 
 **Skills:**
 - Android Stdio
