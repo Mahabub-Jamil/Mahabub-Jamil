@@ -4,6 +4,7 @@
 ### **Mobile application developer**
 #### Bachelor of Science in Computer Science and Engineering
 
+🔭 I’m currently working on [E-Commerce app](git@github.com:Mahabub-Jamil/Shoe_selling_application.git)
 
 **Skills:**
 - Android Stdio
@@ -35,7 +36,7 @@
 - Cricket
 - Swimming
 - Hiking
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahabub-Jamil&" alt="Mahabub-Jamil" /></p>
 > First, solve the problem. Then, write the code. – John Johnson
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrError10" />
