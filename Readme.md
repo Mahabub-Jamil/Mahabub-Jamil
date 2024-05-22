@@ -38,11 +38,11 @@
 
 > First, solve the problem. Then, write the code. – John Johnson
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrError10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Jamil" />
 
 > Code is like humor. When you have to explain it, it’s bad. – Cory House
 
-![Mahabub Jamil GitHub stats](https://github-readme-stats.vercel.app/api?username=MrError10&theme=radical&show_icons=true)
+![Mahabub Jamil GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahabub-Jamil&theme=radical&show_icons=true)
 
 > Coding like poetry should be short and concise. ― Santosh Kalwar
 
