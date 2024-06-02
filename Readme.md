@@ -8,16 +8,17 @@
 🔭 I’m currently working on [E-Commerce app](git@github.com:Mahabub-Jamil/Shoe_selling_application.git)
 
 **Skills:**
-- Android Stdio
+- Android Studio
 - Flutter
 - Java
 - Dart
 - C/C++
 - Python
-- Html/CSS/xml
+- CSS/xml
 - MySql
 - Figma
 - Adobe Photoshop/Illustrator
+- Markdown and Markup Languages(HTML)
 
 **Education:**
 - SSC (Hasanali Government High School, Chandpur)
