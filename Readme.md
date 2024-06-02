@@ -1,4 +1,5 @@
-![Mahabub Jamil](me.jpg)
+<img src="me.jpg" alt="Mahabub Jamil" width="300" height="300">
+
 # Hello! I,m Mahabub Jamil.
 
 ### **Mobile application developer**
