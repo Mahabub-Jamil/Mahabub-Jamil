@@ -6,9 +6,7 @@
 <h4>I am currently pursuing a Bachelor of Science in Computer Science and Engineering.</h4>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71414&random=false&width=435&lines=Turning+caffeine+into+code+;Go+big+or+go+home" alt="Typing SVG" /></a>
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71414&random=false&width=470&lines=Code%2C+coffee%2C+and+curiosity+Since+2021" alt="Typing SVG" /></a></div>
 
 - 🔭 I’m currently working on [E-Commerce](git@github.com:Mahabub-Jamil/Shoe_selling_application.git)
 
