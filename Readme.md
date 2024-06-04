@@ -16,9 +16,6 @@
 
 - 📫 How to reach me **rmahabub03@gmail.com**
 
-
-🔭 I’m currently working on [E-Commerce app](git@github.com:Mahabub-Jamil/Shoe_selling_application.git)
-
 **Skills:**
 - Android Studio
 - Flutter
