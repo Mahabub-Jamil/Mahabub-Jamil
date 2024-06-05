@@ -16,6 +16,9 @@
 
 - 📫 How to reach me **rmahabub03@gmail.com**
 
+<img align="right" height="300" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlwZnFhY2lvZ2F5dWdqcGwyc3M5cGRtc2swYjRwbjhtMnZrNHM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
+
+
 **Skills:**
 | Programming Languages        | Other Tools/Technologies       |
 | ---------------------------- | ------------------------------ |
