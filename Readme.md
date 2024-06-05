@@ -23,8 +23,8 @@
 | Dart                         | Adobe Photoshop/Illustrator    |
 | C/C++                        | MySql                          |
 | Python                       | Flutter                        |
-| CSS/xml                      |                                |
-| HTML                         |                                |
+| CSS                          | Java Swing                     |
+| HTML/XML                     | JavaFX                         |
 
 **Education:**
 - SSC (Hasanali Government High School, Chandpur)
