@@ -8,8 +8,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71414&random=false&width=470&lines=Code%2C+coffee%2C+and+curiosity+Since+2021" alt="Typing SVG" /></a></div>
 
-- 🔭 I’m currently working on [E-Commerce](git@github.com:Mahabub-Jamil/Shoe_selling_application.git)
-
 - 🌱 I’m currently learning **Flutter,MERN**
 
 - 💬 Ask me about **Android development**
