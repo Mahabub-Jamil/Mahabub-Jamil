@@ -17,28 +17,29 @@
 - 📫 How to reach me **rmahabub03@gmail.com**
 
 **Skills:**
-- Android Studio
-- Flutter
-- Java
-- Dart
-- C/C++
-- Python
-- CSS/xml
-- MySql
-- Figma
-- Adobe Photoshop/Illustrator
-- Markdown and Markup Languages(HTML)
+| Programming Languages        | Other Tools/Technologies       |
+| ---------------------------- | ------------------------------ |
+| Java                         | Figma                          |
+| Dart                         | Adobe Photoshop/Illustrator    |
+| C/C++                        | MySql                          |
+| Python                       | Flutter                        |
+| CSS/xml                      |                                |
+| HTML                         |                                |
 
 **Education:**
 - SSC (Hasanali Government High School, Chandpur)
 - HSC (Daffodil International College, Chandpur)
 - Bachelor of Science in Computer Science & Engineering (Bangladesh University of Business & Technology, Dhaka)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahabub-Jamil&" alt="Mahabub-Jamil" /></p>
 
-**Languages:**
+**Voice communication:**
 - English
 - Bangla
 - Hindi
-- Arabic(basic)
+
+> First, solve the problem. Then, write the code. – John Johnson
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Jamil" />
 
 **Sports/Game/Activity/Hobby:**
 - Football
@@ -47,11 +48,8 @@
 - Cricket
 - Swimming
 - Hiking
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahabub-Jamil&" alt="Mahabub-Jamil" /></p>
 
-> First, solve the problem. Then, write the code. – John Johnson
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Jamil" />
 
 > Code is like humor. When you have to explain it, it’s bad. – Cory House
 
